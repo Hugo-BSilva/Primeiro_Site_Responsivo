@@ -22,7 +22,7 @@ img {max-width: 100%;}
     width: 56px;
     height: 56px;
     float: left;
-    background: url(../Primeiro_Site_Responsivo/Site_Responsivo/img/icon.jpg) center center/56px no-repeat;
+    background: url(../Primeiro_Site_Responsivo/img/icon.jpg) center center/56px no-repeat;
 }
 /*Configuração do MENU principal */
 .btn-menu{ /*Botão vermelho do menu */
@@ -78,7 +78,8 @@ img {max-width: 100%;}
 /*BANNER*/
 .banner {
     /*Fonte:https://www.wallpaperflare.com/search?wallpaper=technology*/
-    background: url(../Primeiro_Site_Responsivo/Site_Responsivo/img/tecnologywallpaper.jpg) no-repeat fixed;
+    background-size: auto;
+    background: url(../Primeiro_Site_Responsivo/img/tecnologywallpaper.jpg) no-repeat fixed;
 }
 
 .title{width: 100%;
@@ -169,7 +170,8 @@ img {max-width: 100%;}
 /* NEWSLETTER */
 .newsletter{
     /*Fonte: https://www.wallpaperflare.com/search?wallpaper=technology*/
-    background: url(../Primeiro_Site_Responsivo/Site_Responsivo/img/tecnologywallpaper.jpg) no-repeat fixed;
+    background-size: auto;
+    background: 100% url(../Primeiro_Site_Responsivo/img/tecnologywallpaper.jpg) no-repeat fixed;
 }
 .newsletter h2{
     font-size: 1.5em;
